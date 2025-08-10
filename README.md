@@ -1,3 +1,9 @@
+## Hi, I'm Ahana! 👋
+
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning Advanced data analytics workflows, cloud deployment strategies, and AI model optimization. Recently deep-dived into MySQL for analytics and deploying production-grade APIs with Docker + Render.
+- 👯 I’m looking to collaborate on projects that merge machine learning, computer vision, and real-time analytics into impactful, real-world applications.
+<!-- - 🤔 I’m looking for help with ... -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahana-srinath-murthy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahanasrinathmurthy@gmail.com) 
